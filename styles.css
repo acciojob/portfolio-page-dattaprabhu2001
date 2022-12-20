@@ -1,2 +1,9 @@
+.name-img{
+    text-align: center;
+}
+.name-img img{
+    width: 100px;
+    height: 100px;
+}
 
 /* Your CSS Code here. */
